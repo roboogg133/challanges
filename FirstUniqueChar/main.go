@@ -36,7 +36,7 @@ func main() {
 	char := FirstUniqueChar(input)
 
 	if char == nil {
-		fmt.Println("This string don't have a unique char")
+		fmt.Println("This string don't have an unique char")
 		return
 	}
 
